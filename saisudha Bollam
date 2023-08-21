@@ -1,0 +1,11 @@
+node_modules
+.env
+ 6 changes: 6 additions & 0 deletions6  
+#NodeJs File System Task
+
+
+Getfile Deployment Link: https://nodejs-file-system-task.herokuapp.com/getfile 
+
+Createfile Deployment Link :https://nodejs-file-system-task.herokuapp.com/createfile
+  7 changes: 5 additions & 2 deletions7  
+server.js
